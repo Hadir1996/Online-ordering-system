@@ -1,0 +1,6 @@
+c:\users\calipso\documents\visual studio 2013\Projects\kol w ashkor\kol w ashkor\bin\kol w ashkor.dll.config
+c:\users\calipso\documents\visual studio 2013\Projects\kol w ashkor\kol w ashkor\bin\kol w ashkor.dll
+c:\users\calipso\documents\visual studio 2013\Projects\kol w ashkor\kol w ashkor\bin\kol w ashkor.pdb
+c:\users\calipso\documents\visual studio 2013\Projects\kol w ashkor\kol w ashkor\obj\Debug\kol w ashkor.csprojResolveAssemblyReference.cache
+c:\users\calipso\documents\visual studio 2013\Projects\kol w ashkor\kol w ashkor\obj\Debug\kol w ashkor.dll
+c:\users\calipso\documents\visual studio 2013\Projects\kol w ashkor\kol w ashkor\obj\Debug\kol w ashkor.pdb
